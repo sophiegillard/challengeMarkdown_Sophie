@@ -44,9 +44,10 @@ It was getting late and therefore it was getting colder. So someone closed the g
 
 BUT when I wanted to go back inside to grab another glass of sangria I didn't see that the door was closed. So I just banged in the door in front of all those 20 people I didn't know.:v:
 Best barbecue party! Also I decided to drink water for the rest of the night.
+
 ![glassdoor](https://c.tenor.com/gRUAMAKPGY0AAAAC/pink-door.gif)
 
 #### TL;DR 
 I once banged myself against a glass door.
 
-<< [previous](https://github.com/FriquetLuca/challenge-markdown/blob/master/README.md) || SOPHIE GILLARD || [next](https://github.com/AxelKirac/challenge-markdown/blob/main/README.md)>>
+<< [previous](https://github.com/FriquetLuca/challenge-markdown/blob/master/README.md) || SOPHIE GILLARD || [next](https://github.com/AxelKirac/challenge-markdown/blob/main/README.md) >>
