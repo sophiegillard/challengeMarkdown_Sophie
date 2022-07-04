@@ -1,16 +1,16 @@
 # SOPHIE GILLARD
-*It never gets easier you just get stronger*
+'*It never gets easier you just get stronger*'
 
 <img src="Photo%20Sophie.jpeg" alt="drawing" width="150"/>
 
 ## Me, in one sentence 
-|Personal information    | |
+|Personal information    | Sophie |
 | -------------- | ----------- |
 | Birthday       | 22/03/1996       |
 | Gender         | Female     |
 | Favorite color | Blue      |
 | Favorite food  | Salmon     |
-| Pinneapple on pizza      | - [X]Yes - []No       |
+| Pinneapple on pizza      |  &#9745;  Yes - &#9744; No       |
 
 
 ## Hobbies 
@@ -30,14 +30,14 @@ I am always in a good mood and will always by nice to you if you come to me.
 Also I'm quite a good organizer so I could be the organizer if we do a team work. 
 And last, if you would like some help in your oral presentations skills I can try to help you and give you some tips as I iused to do a lot of presentation during my studies.
 ### My funny story 
-Tell a short funny story about your life.
+My funny story happened during a warm nigh of summer. I was invited by a friend at a barbecue with a lot of people I didn't know before. 
+The host had quite a nice house with a big glass door leading to the garden and the barbecue.
+It was a very warm day and I didn't eat a lot before going there. I took a few glass of sangria and soon I could feel the effect of alcohol. 
+It was getting late and therefore it was getting colder. So someone closed the glass door.
+BUT when I wanted to go back in to grab another glass of sangria I didn't see that the door was closed. So I just banged in the door in front of all those 20 people I didn't know.:v:
+Best barbecue party!
 
 #### TL;DR 
-Summerise your funny story in one short sentence.
+I once banged myself on a glass door.
 
-At the bottom of the page there should be a next and previous link, this should link to the page of the previous student (alphabetically) and the next one.
-Organise yourself so it is easy to know who you should link to.
-
-The links should have the following structure:
-
-<< previous || YOUR NAME || next >>
+<< [previous](https://github.com/FriquetLuca/challenge-markdown/blob/master/README.md) || SOPHIE GILLARD || [next](https://github.com/AxelKirac/challenge-markdown/blob/main/README.md)>>
